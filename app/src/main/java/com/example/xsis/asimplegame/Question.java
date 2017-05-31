@@ -3,7 +3,7 @@ package com.example.xsis.asimplegame;
 import android.app.Activity;
 
 public class Question extends Activity {
-
+//ini tambahan line
 	private int ID;
 	private String QUESTION;
 	private String OPTA;
@@ -14,7 +14,7 @@ public class Question extends Activity {
 
 
 
-	
+
 	public Question() {
 		ID = 0;
 		QUESTION = "";
